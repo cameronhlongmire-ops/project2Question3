@@ -3,5 +3,3 @@ openai
 pdfplumber
 python-docx
 beautifulsoup4
-ChatOllama
-docx
