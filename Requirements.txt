@@ -1,5 +1,6 @@
 streamlit
 openai
 pdfplumber
-python-docx
+docx
 beautifulsoup4
+
